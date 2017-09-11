@@ -1,7 +1,7 @@
 A package for updating a playlist with songs from your 'Song' list on Spotify
 =============================================================================
 
-``SLIPP `` (Song List In Public Playlist) slips songs from public to private lists automatically
+``SLIPP `` (**S**ong **L**ist **I**nto **P**ublic **P**laylist) "slips" songs from public to private lists automatically
 
 ``SLIPP`` uses the python package ``spotipy`` to fetch songs as they are added to
 your private song-list and automatically add them to your public playlist, ensuring all your friends can
